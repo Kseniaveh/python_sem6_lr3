@@ -11,5 +11,5 @@
       Цель линейной регрессии — поиск линии, которая наилучшим образом соответствует этим точкам. 
       
       Нахождение коэффициентов theta0 и theta1:
-      ![Alt text](https://neurohive.io/wp-content/uploads/2018/10/lineinaja-regressija-e1539097909123.png)
+      ![](https://neurohive.io/wp-content/uploads/2018/10/lineinaja-regressija-e1539097909123.png)
 
