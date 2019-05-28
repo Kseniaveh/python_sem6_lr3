@@ -29,3 +29,7 @@ h(x[i]) = theta0 + theta1 * x[i]
 #### Результаты первой части лабораторной рабыты
 
 ![](https://github.com/Kseniaveh/python_sem6_lr3/blob/master/lr3_1.png)
+
+#### Результаты второй части лабораторной рабыты
+
+![](https://github.com/Kseniaveh/python_sem6_lr3/blob/master/result2.png)
